@@ -6,10 +6,6 @@ description: this is meta description
 categories:
 - Android And Gaming
 tags:
-- Photos
-- Game
-- React
-- Python
 - New
 type: featured
 
