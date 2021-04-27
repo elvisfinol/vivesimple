@@ -2,7 +2,7 @@
 baseURL = "https://examplesite.com"
 languageCode = "en-us"
 title = "Liva | Personal blog template"
-theme = "liva-hugo"
+theme = "liva-hugo-master"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
