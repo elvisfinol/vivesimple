@@ -1,28 +1,19 @@
 ---
-title: "FIRST BLOG"
-date: 2019-10-29T10:07:47+06:00
-draft: false
-
-# post thumb
-image: "images/featured-post/post-1.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
+title: FIRST BLOG TEST DE PRUEBA
+date: 2019-10-29T10:07:47.000+06:00
+image: images/featured-post/post-1.jpg
+description: this is meta description
 categories:
-  - "Android And Gaming"
+- Android And Gaming
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+- Photos
+- Game
+- React
+- Python
+- New
+type: featured
 
-# post type
-type: "featured"
 ---
-
 # Heading 1
 ## Heading 2
 ### Heading 3
