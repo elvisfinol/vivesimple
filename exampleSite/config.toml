@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
+title = "Personal blog"
 theme = "liva-hugo-master"
 summaryLength = "10"
 paginate = 6
@@ -87,7 +87,7 @@ author = "Mica"
 googleAnalitycsID = "Your ID"
 # Contact Information
 # mobile = "0124857985320"
-email = "e.finol7@gmail.com"
+email = "micaela.araujom@gmail.com"
 location = "Madrid, España"
 # copyright
 copyright = "| copyright &copy; 2020 [Elvis Finol](https://elvisfinol.com) All Rights Reserved |"
@@ -118,11 +118,11 @@ expire_days = 2
 [[params.social]]
 title = "youtube"
 icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/c/ViveSimple/featured"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/info.vivesimple/"
 
 
