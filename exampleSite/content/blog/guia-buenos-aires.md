@@ -2,12 +2,11 @@
 categories = []
 date = 2021-05-28T22:00:00Z
 description = "this is meta description"
+draft = true
 image = ""
 tags = ["New"]
 title = "GUÍA COMPLETA: Ciudad De Buenos Aires"
 type = "featured"
 
 +++
-HOLA! CREAMOS ESTÁ GUÍA PARA VISITAR LA CIUDAD DE BS AS. SEGÚN NUESTRA EXPERIENCIA COMO TURISTAS, Y LUEGO DE HABERLA ADOPTADO DURANTE 3 AÑOS COMO NUESTRA CIUDAD PARA VIVIR, ARMAMOS LOS RECORRIDOS CON LOS PUNTOS QUE CONSIDERAMOS MÁS INTERESANTES A LA HORA DE CONOCER ESTA GRAN CIUDAD. PRIMERO SURGIÓ COMO UNA PEQUEÑA GUÍA U ORIENTACIÓN PARA AYUDAR A LOS AMIGOS O FAMILIARES QUE ESTABA DE VISITA A HACER TURISMO EN LA CIUDAD. LUEGO ELLOS SE LAS COMPARTIERON A OTROS, Y ASÍ PENSAMOS QUE SERÍA UNA GRAN IDEA, COMPLETARLA Y MEJORARLA PARA COMPARTIRLA CON TODOS USTEDES EN NUESTRO CANAL DE YOUTUBE.
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/s7HB6ORkD4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Hola! Creamos está guía para visitar la Ciudad de Buenos Aires. Según nuestra experiencia como turistas, y luego de haberla adoptado durante 3 años como nuestra ciudad para vivir, armamos los recorridos con los puntos que consideramos más interesantes a la hora de conocer esta gran ciudad. Primero surgió como una pequeña guía u orientación para ayudar a los amigos o familiares que estaba de visita a hacer turismo en la ciudad. Luego ellos se las compartieron a otros, y así pensamos que sería una gran idea, completarla y mejorarla para compartirla con todos ustedes en nuestro canal de Youtube.
