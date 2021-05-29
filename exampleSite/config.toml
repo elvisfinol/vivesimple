@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
 languageCode = "en-us"
-title = "Personal blog"
+title = "Vive Simple 🌎"
 theme = "liva-hugo-master"
 summaryLength = "10"
 paginate = 6
@@ -78,7 +78,7 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-# logo = "images/logo.png"
+logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
@@ -90,7 +90,7 @@ googleAnalitycsID = "ca-pub-3868248257033526"
 email = "micaela.araujom@gmail.com"
 location = "Madrid, España"
 # copyright
-copyright = "| copyright &copy; 2020 [Elvis Finol](https://elvisfinol.com) All Rights Reserved |"
+copyright = "| copyright &copy; 2021 [Elvis Finol](https://elvisfinol.com) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
