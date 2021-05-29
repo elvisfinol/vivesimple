@@ -8,4 +8,4 @@ title = "GUÍA COMPLETA: Ciudad De Buenos Aires"
 type = "featured"
 
 +++
-Link para descargar: [https://www.toneden.io/vive-simple/post/gu-a-completa-ciudad-de-buenos-aires-pdf](https://www.toneden.io/vive-simple/post/gu-a-completa-ciudad-de-buenos-aires-pdf "Descargar")
+[Link para descargar](https://www.toneden.io/vive-simple/post/gu-a-completa-ciudad-de-buenos-aires-pdf)
