@@ -2,8 +2,7 @@
 categories = []
 date = 2021-05-28T22:00:00Z
 description = "this is meta description"
-draft = true
-image = ""
+image = "/uploads/guia-buenos-aires.png"
 tags = ["New"]
 title = "GUÍA COMPLETA: Ciudad De Buenos Aires"
 type = "featured"
