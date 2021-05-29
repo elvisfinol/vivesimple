@@ -1,11 +1,11 @@
 +++
 categories = []
-date = 2019-10-29T04:07:47Z
+date = 2021-05-28T22:00:00Z
 description = "this is meta description"
 draft = true
-image = "images/featured-post/post-1.jpg"
+image = ""
 tags = ["New"]
-title = "guia-buenos-aires"
+title = "GUÍA COMPLETA: Ciudad De Buenos Aires"
 type = "featured"
 
 +++
