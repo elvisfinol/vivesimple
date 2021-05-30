@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://vivesimple.me"
 languageCode = "en-us"
 title = "Vive Simple 🌎"
 theme = "liva-hugo-master"
