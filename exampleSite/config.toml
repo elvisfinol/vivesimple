@@ -45,7 +45,7 @@ disqusShortname = ""
 
   # main menu
   [[menu.main]]
-  name = "Sobre Mí"
+  name = "Sobre Nosotros"
   URL = "about"
   weight = 1
 
@@ -124,5 +124,3 @@ link = "https://www.youtube.com/c/ViveSimple/featured"
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/info.vivesimple/"
-
-

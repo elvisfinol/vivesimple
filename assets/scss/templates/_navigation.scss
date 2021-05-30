@@ -1,14 +1,15 @@
-.nav-item{
+.nav-item {
   margin: 0;
 
-  .nav-link{
+  .nav-link {
     text-transform: capitalize;
   }
 }
 
 .navbar-white .navbar-nav .nav-link {
   color: $text-color-dark;
-  &:hover{
+
+  &:hover {
     color: $primary-color;
   }
 }
@@ -17,15 +18,17 @@
   padding: 20px;
 }
 
-.mobile-view{
+.mobile-view {
   display: none;
+
   @include desktop {
     display: block;
   }
 }
 
-.desktop-view{
+.desktop-view {
   display: block;
+
   @include desktop {
     display: none;
   }
