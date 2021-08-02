@@ -28,4 +28,4 @@ type = "featured"
 
 9\. **Foto Carnet**: Si pueden llevar desde argentina o su país un pack actualizado de fotos Carnet, con fondo y tamaño utilizado en el país de destino (España: fondo blanco y de 2,6 ancho x 3,2 alto). Les saldrá mucho más barato hacerlo en su país y siempre hacen falta.
 
-10\. **Portavalores**: son como riñoneras, pero bien finitas que se colocan debajo de la ropa. Hace tiempo las usamos para nuestros viajes, y la emigración no fue la excepción. Si llevan dinero en efectivo, me parece la forma más segura y práctica. Siempre dejar las tarjetas y algo de cambio, EN LO POSIBLE EN LA MONEDA LOCAL O EN DÓLARES, a mano EN NUESTRA BILLETERA para las necesidades durante el viaje Y LA LLEGADA.
+10\. **Portavalores**: son como riñoneras, pero bien finitas que se colocan debajo de la ropa. Hace tiempo las usamos para nuestros viajes, y la emigración no fue la excepción. Si llevan dinero en efectivo, me parece la forma más segura y práctica. Siempre dejar las tarjetas y algo de cambio, en lo posible en la moneda local o en dólares, a mano en nuestra billetera para las necesidades durante el viaje y la llegada.
