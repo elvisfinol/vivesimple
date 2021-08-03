@@ -2,7 +2,7 @@
 categories = []
 date = 2021-08-01T22:00:00Z
 description = "this is meta description"
-image = "/uploads/checklist-para-migrar.png"
+image = "/uploads/checklist-para-emigrar.png"
 tags = []
 title = "CHECKLIST para Emigrar 🎒"
 type = "featured"
