@@ -5,7 +5,7 @@ description = "this is meta description"
 image = "/uploads/guia-buenos-aires.png"
 tags = []
 title = "GUÍA COMPLETA: Ciudad De Buenos Aires"
-type = "featured"
+type = "post"
 
 +++
 Hola comunidad! 👋
