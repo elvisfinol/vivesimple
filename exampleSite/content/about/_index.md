@@ -5,5 +5,6 @@ image: images/author.jpeg
 description: this is meta description
 
 ---
-Hola! Soy Mica, de Mendoza Argentina, tengo 30 años y estoy viviendo en Madrid España. 
+Hola gente....bienvenidos a nuestro espacio, en el que compartimos nuestras experiencias con vos. Nos encanta viajar, hacer turismo y explorar nuevos rincones. Esperamos que disfruten nuestro espacio y sea de mucha utilidad. 🤗
 
+Elvis y Mica.
