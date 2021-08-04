@@ -1,9 +1,10 @@
 +++
-title = "Hola Mundo!"
-date = 2019-10-29T10:07:47.000+06:00
-image = "/uploads/mica-y-elvis.jpeg"
-description = "this is meta description"
 categories = []
+date = 2019-10-29T04:07:47Z
+description = "this is meta description"
+image = "/uploads/hola-mundo.jpg"
 tags = []
+title = "Hola Mundo!"
 type = "post"
+
 +++

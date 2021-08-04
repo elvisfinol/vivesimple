@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["turismo"]
 date = 2021-05-28T22:00:00Z
 description = "this is meta description"
 image = "/uploads/guia-buenos-aires.png"
-tags = []
+tags = ["guias"]
 title = "GUÍA COMPLETA: Ciudad De Buenos Aires"
 type = "post"
 
