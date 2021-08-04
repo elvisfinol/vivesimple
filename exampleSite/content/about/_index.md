@@ -5,6 +5,8 @@ image: images/author.jpeg
 description: this is meta description
 
 ---
-Hola gente....bienvenidos a nuestro espacio, en el que compartimos nuestras experiencias con vos. Nos encanta viajar, hacer turismo y explorar nuevos rincones. Esperamos que disfruten nuestro espacio y sea de mucha utilidad. 🤗
+**_¡Hola, gente!_** _Bienvenidos a nuestro blog oficial, en el que compartimos nuestras experiencias con vos._  
 
-Elvis y Mica.
+_Nos encanta viajar, hacer turismo y explorar nuevos rincones. Esperamos que disfruten nuestro espacio y sea de mucha utilidad. 🤗_ 
+
+_Mica & Elvis_
