@@ -5,7 +5,7 @@ title = "Vive Simple 🌎"
 theme = "liva-hugo-master"
 summaryLength = "10"
 paginate = 6
-disqusShortname = ""
+disqusShortname = "disqus_thread"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
