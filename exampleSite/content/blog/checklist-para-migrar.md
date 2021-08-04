@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["emigrar"]
 date = 2021-08-01T22:00:00Z
 description = "this is meta description"
 image = "/uploads/checklist-para-emigrar.png"
-tags = []
+tags = ["tips", "checklist", "viajar"]
 title = "CHECKLIST para Emigrar 🎒"
 type = "featured"
 
