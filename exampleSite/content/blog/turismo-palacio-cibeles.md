@@ -16,7 +16,7 @@ Proyectado y construido por Antonio Palacios y Joaquín Otamendi como sede de la
 ⠀  
 Siguiendo patrones de racionalidad y funcionalidad, el edificio representa la unión de tradición y modernidad. Construido en piedra, hierro y vidrio, el Palacio de Cibeles se encuentra en un solar que fue el antiguo jardín del Buen Retiro, ocupando alrededor de 30.000 metros cuadrados.
 
-[photo-1578305698944-874fa44d04c9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2liZWxlcyUyMG1hZHJpZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60](https://images.unsplash.com/photo-1578305698944-874fa44d04c9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2liZWxlcyUyMG1hZHJpZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 "photo-1578305698944-874fa44d04c9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2liZWxlcyUyMG1hZHJpZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60")  
+![](/uploads/palacio-cibeles-2.jpg)  
 ⠀  
 Además de su admirable arquitectura e historia, actualmente también ofrece un restaurante con terraza en su piso 6 dónde disfrutar el tradicional tapeo y unas buenas copas.  
 ⠀  
