@@ -4,7 +4,7 @@ date = 2021-08-14T17:26:00Z
 description = "this is meta description"
 image = "/uploads/palacio-cibeles.JPG"
 tags = ["viajar"]
-title = "𝗧𝘂𝗿𝗶𝘀𝗺𝗼 - Madrid: Palacio de Cibeles"
+title = "Turismo - Madrid: Palacio de Cibeles"
 type = "post"
 
 +++
