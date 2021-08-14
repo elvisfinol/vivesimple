@@ -8,8 +8,8 @@ title = "𝗧𝘂𝗿𝗶𝘀𝗺𝗼 - Madrid: Palacio de Cibeles"
 type = "post"
 
 +++
-𝗧𝘂𝗿𝗶𝘀𝗺𝗼 - Madrid: Palacio de Cibeles  
-⠀  
+##### **𝗧𝘂𝗿𝗶𝘀𝗺𝗼 - Madrid: Palacio de Cibeles**
+
 El Palacio de Cibeles o antiguo Palacio de las Comunicaciones es un edificio monumental, ubicado frente a la Plaza de Cibeles en el centro de Madrid.
 
 Proyectado y construido por Antonio Palacios y Joaquín Otamendi como sede de la Oficina de Correos de España, fue inaugurado en 1909. En 1993 fue declarado un Bien de Interés Cultural en la categoría de Monumento. Y desde el 2007 funciona como sede del Ayuntamiento de Madrid.  
