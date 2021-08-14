@@ -8,7 +8,7 @@ title = "𝗧𝘂𝗿𝗶𝘀𝗺𝗼 - Madrid: Palacio de Cibeles"
 type = "post"
 
 +++
-##### **𝗧𝘂𝗿𝗶𝘀𝗺𝗼 - Madrid: Palacio de Cibeles**
+##### **Turismo** - **Madrid: Palacio de Cibeles**
 
 El Palacio de Cibeles o antiguo Palacio de las Comunicaciones es un edificio monumental, ubicado frente a la Plaza de Cibeles en el centro de Madrid.
 
