@@ -2,7 +2,7 @@
 categories = ["turismo"]
 date = 2021-08-14T17:26:00Z
 description = "this is meta description"
-image = "/uploads/palacio-cibeles.jpg"
+image = "/uploads/palacio-cibeles.JPG"
 tags = ["viajar"]
 title = "𝗧𝘂𝗿𝗶𝘀𝗺𝗼 - Madrid: Palacio de Cibeles"
 type = "post"
@@ -14,7 +14,9 @@ El Palacio de Cibeles o antiguo Palacio de las Comunicaciones es un edificio mon
 
 Proyectado y construido por Antonio Palacios y Joaquín Otamendi como sede de la Oficina de Correos de España, fue inaugurado en 1909. En 1993 fue declarado un Bien de Interés Cultural en la categoría de Monumento. Y desde el 2007 funciona como sede del Ayuntamiento de Madrid.  
 ⠀  
-Siguiendo patrones de racionalidad y funcionalidad, el edificio representa la unión de tradición y modernidad. Construido en piedra, hierro y vidrio, el Palacio de Cibeles se encuentra en un solar que fue el antiguo jardín del Buen Retiro, ocupando alrededor de 30.000 metros cuadrados.  
+Siguiendo patrones de racionalidad y funcionalidad, el edificio representa la unión de tradición y modernidad. Construido en piedra, hierro y vidrio, el Palacio de Cibeles se encuentra en un solar que fue el antiguo jardín del Buen Retiro, ocupando alrededor de 30.000 metros cuadrados.
+
+[photo-1578305698944-874fa44d04c9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2liZWxlcyUyMG1hZHJpZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60](https://images.unsplash.com/photo-1578305698944-874fa44d04c9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2liZWxlcyUyMG1hZHJpZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 "photo-1578305698944-874fa44d04c9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2liZWxlcyUyMG1hZHJpZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60")  
 ⠀  
 Además de su admirable arquitectura e historia, actualmente también ofrece un restaurante con terraza en su piso 6 dónde disfrutar el tradicional tapeo y unas buenas copas.  
 ⠀  
