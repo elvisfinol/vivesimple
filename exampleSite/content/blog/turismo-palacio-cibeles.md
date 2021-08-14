@@ -2,8 +2,9 @@
 categories = ["turismo"]
 date = 2021-08-14T17:26:00Z
 description = "this is meta description"
+draft = true
 image = "/uploads/palacio-cibeles.jpg"
-tags = []
+tags = ["viajar"]
 title = "𝗧𝘂𝗿𝗶𝘀𝗺𝗼 - Madrid: Palacio de Cibeles"
 type = "post"
 
