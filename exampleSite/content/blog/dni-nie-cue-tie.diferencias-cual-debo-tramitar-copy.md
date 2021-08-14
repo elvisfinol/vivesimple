@@ -1,26 +1,48 @@
 +++
-categories = ["tramites"]
-date = 2021-08-14T16:26:00Z
+categories = ["turismo"]
+date = 2021-08-14T17:26:00Z
 description = "this is meta description"
 draft = true
-image = "/uploads/nie-cue-tie-dni.png"
-tags = ["DNI", "NIE", "CUE", "TIE"]
-title = "DNI, NIE, CUE, TIE. Diferencias, ¿Cuál debo tramitar? -(copy)"
-type = "featured"
+image = "/uploads/palacio-cibeles.jpg"
+tags = []
+title = "𝗧𝘂𝗿𝗶𝘀𝗺𝗼 - Madrid: Palacio de Cibeles"
+type = "post"
 
 +++
+𝗧𝘂𝗿𝗶𝘀𝗺𝗼 - Madrid: Palacio de Cibeles  
+⠀  
+El Palacio de Cibeles o antiguo Palacio de las Comunicaciones es un edificio monumental, ubicado frente a la Plaza de Cibeles en el centro de Madrid.
 
-Si estás pensando en emigrar a España, y comenzaste a buscar información sobre los trámites, seguro más de una vez te encontraste alguna de esta siglas y probablemente te parece todo una confusión, al menos así me paso a mi al principio. Por eso voy a intentar aclarar estos términos para facilitarte entender, según tu situación personal, que deberías tramitar vos.
-
-1. **DNI:** Como en Argentina, en España al documento de identidad de sus ciudadanos, le llaman DNI. Así que si sos ciudadano español, por más que nunca hayas vivido acá, te tocará como nacional de este país tramitar tu primer DNI. Por lo tanto, como ciudadano español, no tendrás NIE, ni ninguno de los documentos que son para extranjeros.
-2. **NIE**: Cómo lo indican las siglas es el número de identificación de extranjero, es el número (solo el número) que se le asigna a todo extranjero en España para identificarnos administrativamente ante los órganos del Estado Español. Ese número por sí solo no implica residencia legal en España, es decir, no da derecho a residir, ni a trabajar. Ya que el mismo, le corresponde a cualquier extranjero que, por el motivo que sea, haya realizado alguna tramitación u operación frente a la administración pública Española, fuera de las habituales de turismo.
-
-   El NIE solo es el número , y según cada caso, puede estar contenido en el CUE (ciudadanos comunitarios) o en la TIE (ciudadanos extracomunitarios), o en algún papel provisorio (ej: papel de residencia en trámite con asignación de NIE; hoja con el mal llamado NIE provisorio - el número es definitivo y no cambia- que se otorga para hacer alguna operación económica en España siendo extranjero, o para los extranjeros comunitarios durante los primeros 90 días para facilitar su contratación).
-
-   _Dicho número es definitivo, una vez asignado no cambia, ni se pierde, aunque se modifique tu estatus en el país._
-3. **CUE**: Si sos ciudadano comunitario no español (ciudadano de algún país de la unión europea distinto a España - Francia, Italia, Alemania, Polonia, etc-), para residir y trabajar tendrás que tramitar el CUE. El Certificado de Registro de la Unión Europea, por eso la sigla CUE, es una tarjeta de color verde (mal llamado NIE Verde), que acredita la inscripción en el Registro Central de Extranjeros de los ciudadanos de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo que van a residir en España por un periodo superior a tres meses. Y por lo tanto dicho documento contiene los datos del titular, su NIE (número de identificación extranjero), la fecha de radicación y la fecha de vencimiento de la residencia, y acredita la residencia legal en España. Se puede tramitar directamente al llegar con demostración de fondos económicos o cuando ya tengan un contrato de trabajo.
-
-   Es importante aclarar que el CUE solo no acredita identidad, ya que no tiene foto, ni huellas digitales, ni ninguno de los requisitos de los documentos de identidad actuales, por eso debe ir siempre acompañado del documento de identidad (pasaporte o carta de identidad) del país europeo del que soy nacional por el que he tramitado el CUE.
-4. **TIE**: La TIE, es la Tarjeta de Identidad de Extranjero. Es el documento único y exclusivo que acredita la condición de residente legal en España para los extranjeros NO comunitarios (nacionales de cualquier país que NO pertenezcan a la Unión Europea). La TIE contiene el NIE de ese extranjero, la razón y el período de la residencia o estancia otorgada (residencia humanitaria, residencia por familiar de comunitario, etc). Por eso, la TIE es entregada una vez que se cumplieron los requisitos y procedimientos legales, y se aprobó el trámite de residencia o estancia legal que le da origen. La misma es una tarjeta física, que como el DNI Español, sí contiene foto y huellas digitales, por lo cual acredita identidad por sí sola, sin necesidad de llevar otro documento encima.
-
-En los próximos posteos, explicaremos cada uno más en detalle, los requisitos, formas de tramitarlos y algunos tips extra.
+Proyectado y construido por Antonio Palacios y Joaquín Otamendi como sede de la Oficina de Correos de España, fue inaugurado en 1909. En 1993 fue declarado un Bien de Interés Cultural en la categoría de Monumento. Y desde el 2007 funciona como sede del Ayuntamiento de Madrid.  
+⠀  
+Siguiendo patrones de racionalidad y funcionalidad, el edificio representa la unión de tradición y modernidad. Construido en piedra, hierro y vidrio, el Palacio de Cibeles se encuentra en un solar que fue el antiguo jardín del Buen Retiro, ocupando alrededor de 30.000 metros cuadrados.  
+⠀  
+Además de su admirable arquitectura e historia, actualmente también ofrece un restaurante con terraza en su piso 6 dónde disfrutar el tradicional tapeo y unas buenas copas.  
+⠀  
+En su planta 8 se encuentra el Mirador del palacio, desde el cual apreciar unas vistas impresionantes de la ciudad.  
+⠀  
+Madrid ofrece visitas Guiadas al Palacio y a su Mirador.  
+⠀  
+𝗩𝗶𝘀𝗶𝘁𝗮𝘀 𝗮𝗯𝗶𝗲𝗿𝘁𝗮𝘀  
+Martes, miércoles y jueves: 18:30 h  
+Miércoles y viernes: 13:00  
+Sábado: 10:30 y 18:30 h  
+Domingo: 10:30, 16:30 y 18:30 h  
+Duración: 60 minutos  
+Disponibles visitas guiadas en inglés, francés, italiano  
+⠀  
+𝗩𝗶𝘀𝗶𝘁𝗮𝘀 𝗽𝗮𝗿𝗮 𝗴𝗿𝘂𝗽𝗼𝘀  
+Martes a viernes: 10:30 h  
+Martes y jueves: 16:30 h  
+Duración: 60 minutos  
+Disponibles visitas guiadas en inglés, francés, italiano  
+⠀  
+𝗩𝗶𝘀𝗶𝘁𝗮𝘀 𝗮𝗹 𝗠𝗶𝗿𝗮𝗱𝗼𝗿  
+Martes a viernes: 12:00 h  
+Miércoles: 17:30 h  
+Duración: 30 minutos  
+⠀  
+Es imprescindible reservar con antelación todas las visitas.  
+Aforo máximo: 14 personas más guía / Visita al Mirador: 9 personas más guía  
+Visitas gratuitas  
+Reservas e información en info@centrocentro.org, en el mostrador de información (planta principal) o en el teléfono 914800008
