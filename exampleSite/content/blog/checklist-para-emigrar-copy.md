@@ -1,9 +1,9 @@
 +++
-categories = ["emigrar"]
+categories = ["tramites"]
 date = 2021-08-14T16:26:00Z
 description = "this is meta description"
 draft = true
-image = "/uploads/checklist-para-emigrar.png"
+image = "/uploads/nie-cue-tie-dni.png"
 tags = ["DNI", "NIE", "CUE", "TIE"]
 title = "DNI, NIE, CUE, TIE ¿Diferencias? ¿Cuál debo tramitar? "
 type = "featured"
