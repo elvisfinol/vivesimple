@@ -5,7 +5,7 @@ description = "this is meta description"
 image = "/uploads/checklist-para-emigrar.png"
 tags = ["tips", "checklist", "viajar"]
 title = "CHECKLIST para Emigrar 🎒"
-type = "featured"
+type = "post"
 
 +++
 ¿Qué tener en cuenta antes de viajar? Soy fan de las listas. Hago listas para todo, en los viajes son mis mejores aliadas, imagínense para una migración. Bueno acá les comparto mi check-list. Lo hice unas semanas antes, para ir teniéndolo de referencia, y lo estuve repasando hasta el último momento antes de subir al avión, para asegurarnos que no nos olvidábamos nada.
