@@ -1,9 +1,9 @@
 +++
-categories = ["emigrar"]
+categories = ["tips"]
 date = 2021-08-01T22:00:00Z
 description = "this is meta description"
 image = "/uploads/checklist-para-emigrar.png"
-tags = ["tips", "checklist", "viajar"]
+tags = ["checklist", "viajar", "documentacion"]
 title = "CHECKLIST para Emigrar 🎒"
 type = "post"
 
