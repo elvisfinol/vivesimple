@@ -13,9 +13,7 @@ type = "post"
 ⠀  
 El Palacio de Cibeles o antiguo Palacio de las Comunicaciones es un edificio monumental, ubicado frente a la Plaza de Cibeles en el centro de Madrid.
 
-Proyectado y construido por Antonio Palacios y Joaquín Otamendi como sede de la Oficina de Correos de España, fue inaugurado en 1909. En 1993 fue declarado un Bien de Interés Cultural en la categoría de Monumento. Y desde el 2007 funciona como sede del Ayuntamiento de Madrid.
-
-[photo-1571316090783-bf029ad15bc1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=740&q=80](https://images.unsplash.com/photo-1571316090783-bf029ad15bc1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=740&q=80 "photo-1571316090783-bf029ad15bc1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=740&q=80")  
+Proyectado y construido por Antonio Palacios y Joaquín Otamendi como sede de la Oficina de Correos de España, fue inaugurado en 1909. En 1993 fue declarado un Bien de Interés Cultural en la categoría de Monumento. Y desde el 2007 funciona como sede del Ayuntamiento de Madrid.  
 ⠀  
 Siguiendo patrones de racionalidad y funcionalidad, el edificio representa la unión de tradición y modernidad. Construido en piedra, hierro y vidrio, el Palacio de Cibeles se encuentra en un solar que fue el antiguo jardín del Buen Retiro, ocupando alrededor de 30.000 metros cuadrados.  
 ⠀  
