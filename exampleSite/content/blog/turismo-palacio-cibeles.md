@@ -20,11 +20,8 @@ Además de su admirable arquitectura e historia, actualmente también ofrece un 
 ⠀  
 En su planta 8 se encuentra el Mirador del palacio, desde el cual apreciar unas vistas impresionantes de la ciudad.
 
-![Source Unsplash (Quique Olivar)](/uploads/palacio-cibeles-2.jpg "Palacio Cibeles")
+![Source Unsplash (Quique Olivar)](/uploads/palacio-cibeles-2.jpg "Palacio Cibeles")_Foto: Unsplash (Quique Olivar)_
 
-_Foto: Unsplash (Quique Olivar)_
-
-  
 Madrid ofrece visitas Guiadas al Palacio y a su Mirador.  
 ⠀  
 𝗩𝗶𝘀𝗶𝘁𝗮𝘀 𝗮𝗯𝗶𝗲𝗿𝘁𝗮𝘀  
