@@ -15,7 +15,7 @@ Si estás pensando en emigrar a España, y comenzaste a buscar información sobr
    Como en Argentina, en España al documento de identidad de sus ciudadanos, le llaman DNI. Así que si eres ciudadano español, por más que nunca hayas vivido acá, te tocará como nacional de este país tramitar tu primer DNI. Por lo tanto, como ciudadano español, no tendrás ni NIE, ni ninguno de los documentos que son para extranjeros.
 2. **NIE**: 
 
-   👉 Cómo lo indican las siglas es el número de identificación de extranjero, es el número (solo el número, no tiene soporte físico) que se le asigna a todo extranjero en España para identificarnos administrativamente ante los órganos del Estado Español.
+   👉 Como lo indican las siglas es el número de identificación de extranjero, es el número (solo el número, no tiene soporte físico) que se le asigna a todo extranjero en España para identificarnos administrativamente ante los órganos del Estado Español.
 
    👉 Este número por sí solo no implica residencia, ni estancia legal en España.
 
@@ -32,7 +32,7 @@ Si estás pensando en emigrar a España, y comenzaste a buscar información sobr
 
    👉 Dicho documento contiene los datos del titular, su NIE (número de identificación extranjero), la fecha de radicación y la fecha de vencimiento de la residencia, y acredita la residencia legal en España.
 
-   \-Se puede tramitar directamente al llegar con demostración de fondos económicos o cuando ya tengan un contrato de trabajo.
+   👉 Se puede tramitar directamente al llegar con demostración de fondos económicos o cuando ya tengan un contrato de trabajo.
 
    👉 El CUE solo no acredita identidad, ya que no tiene foto, ni huellas digitales, ni ninguno de los requisitos de los documentos de identidad actuales, por eso debe ir siempre acompañado del documento de identidad (pasaporte o carta de identidad) del país europeo del que soy nacional por el que he tramitado el CUE.
 4. **TIE**: 
