@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["lifestyle"]
 date = 2021-08-19T09:45:00Z
 description = "this is meta description"
 draft = true
