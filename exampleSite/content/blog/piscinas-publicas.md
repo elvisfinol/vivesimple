@@ -4,11 +4,11 @@ date = 2021-08-19T09:45:00Z
 description = "this is meta description"
 image = "/uploads/piscinas-madrid-3.JPG"
 tags = []
-title = "Lifestyle - Piscinas Públicas"
+title = "Lifestyle - Piscinas Públicas ⛱️"
 type = "post"
 
 +++
-Madrid ¿Qué hacer en Madrid en Verano?
+Madrid ¿Qué hacer en Madrid en Verano? 
 
 Es la pregunta que muchos nos hacemos. No solo porque por momentos parece una Ciudad fantasma, vacía y silenciosa por el éxodo vacacional de julio y agosto. Sino y fundamentalmente porque hay que buscar planes compatibles con los 40 grados de calor abrumador que visitan la ciudad por estos días. 🥵
 
@@ -20,15 +20,11 @@ Las entradas solo se compran por la web o la app móvil de Madrid, 48 hs antes d
 
 **Los costos de la entrada por medio día son:**
 
-Adulto +26 - 64: 2,25 euros
-
-Joven +14-26: 1,80 euros
-
-Niños +5-14: 1,35 euros
-
-Niños menores de 5: no pagan entrada (pero igual debes sacar el ticket por la app)
-
-Mayores +65: 0,70
+* Adulto +26 - 64: 2,25 euros
+* Joven +14-26: 1,80 euros
+* Niños +5-14: 1,35 euros
+* Niños menores de 5: no pagan entrada (pero igual debes sacar el ticket por la app)
+* Mayores +65: 0,70
 
 Actualmente hay 19 piscinas disponibles, distribuidas en los distintos barrios de Madrid.
 
