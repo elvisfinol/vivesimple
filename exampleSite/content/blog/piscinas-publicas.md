@@ -34,4 +34,6 @@ Actualmente hay 19 piscinas disponibles, distribuidas en los distintos barrios d
 
 En general los bar/cafeterías no están abiertos, pero se puede ingresar comida y bebida sin problema. Si quieren llevar bebida con alcohol, en algunas vi que lo permitían pero restringiendo la cantidad a una 1 lata/botella por persona. Además en algunas, hay máquinas expendedoras de bebidas y snacks. El sector de duchas no está disponible, pero sí el baño y las áreas para cambiarse.
 
+![](/uploads/piscina-madrid-2.JPG)
+
 📷 Piscina municipal de Casa de Campo. Mi favorita de las 3 o 4 que he conocido. Sobre todo porque tiene muchas más áreas de vegetación y sombra. Aunque, al menos a las que fui, todas tienen muy buenas instalaciones en general, limpias y organizadas. y para mi es una gran opción para pasar estos días de calor y disfrutar de un plan diferente.
