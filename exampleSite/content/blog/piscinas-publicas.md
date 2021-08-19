@@ -2,14 +2,12 @@
 categories = ["lifestyle"]
 date = 2021-08-19T09:45:00Z
 description = "this is meta description"
-draft = true
 image = "/uploads/piscinas-madrid-3.JPG"
 tags = []
 title = "Lifestyle - Piscinas Públicas"
 type = "post"
 
 +++
-
 Madrid ¿Qué hacer en Madrid en Verano?
 
 Es la pregunta que muchos nos hacemos. No solo porque por momentos parece una Ciudad fantasma, vacía y silenciosa por el éxodo vacacional de julio y agosto. Sino y fundamentalmente porque hay que buscar planes compatibles con los 40 grados de calor abrumador que visitan la ciudad por estos días. 🥵
@@ -32,9 +30,10 @@ Niños menores de 5: no pagan entrada (pero igual debes sacar el ticket por la a
 
 Mayores +65: 0,70
 
-  
 Actualmente hay 19 piscinas disponibles, distribuidas en los distintos barrios de Madrid.
 
 En general los bar/cafeterías no están abiertos, pero se puede ingresar comida y bebida sin problema. Si quieren llevar bebida con alcohol, en algunas vi que lo permitían pero restringiendo la cantidad a una 1 lata/botella por persona. Además en algunas, hay máquinas expendedoras de bebidas y snacks. El sector de duchas no está disponible, pero sí el baño y las áreas para cambiarse.
+
+![](/uploads/piscinas-madrid-1.JPG)
 
 📷 Piscina municipal de Casa de Campo. Mi favorita de las 3 o 4 que he conocido. Sobre todo porque tiene muchas más áreas de vegetación y sombra. Aunque, al menos a las que fui, todas tienen muy buenas instalaciones en general, limpias y organizadas. y para mi es una gran opción para pasar estos días de calor y disfrutar de un plan diferente.
