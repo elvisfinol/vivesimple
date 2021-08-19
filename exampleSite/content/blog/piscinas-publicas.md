@@ -5,7 +5,7 @@ description = "this is meta description"
 draft = true
 image = "/uploads/piscinas-madrid-3.JPG"
 tags = []
-title = "Piscinas Públicas"
+title = "Lifestyle - Piscinas Públicas"
 type = "post"
 
 +++
