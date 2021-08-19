@@ -13,7 +13,7 @@ _Mica & Elvis_
 
 ***
 
-REDES SOCIALES
+**REDES SOCIALES**
 
 * [Canal YOUTUBE](https://www.youtube.com/c/ViveSimple?ltclid=)
 * [Instagram](https://www.instagram.com/vivesimple.me/)
