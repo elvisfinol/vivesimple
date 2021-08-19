@@ -8,9 +8,9 @@ title = "Lifestyle - Piscinas Públicas ⛱️"
 type = "post"
 
 +++
-Madrid ¿Qué hacer en Madrid en Verano? 
+Madrid ¿Qué hacer en Madrid en Verano?
 
-Es la pregunta que muchos nos hacemos. No solo porque por momentos parece una Ciudad fantasma, vacía y silenciosa por el éxodo vacacional de julio y agosto. Sino y fundamentalmente porque hay que buscar planes compatibles con los 40 grados de calor abrumador que visitan la ciudad por estos días. 🥵
+Es la pregunta que muchos nos hacemos. No solo porque por momentos parece una ciudad fantasma, vacía y silenciosa por el éxodo vacacional de julio y agosto. Sino y fundamentalmente porque hay que buscar planes compatibles con los 40 grados de calor abrumador que visitan la ciudad por estos días. 🥵
 
 > Por eso una gran opción es disfrutar de la extensa variedad de piscinas públicas que la Comunidad de Madrid ofrece.
 
