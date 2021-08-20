@@ -47,4 +47,5 @@ Si estás pensando en emigrar a España, y comenzaste a buscar información sobr
 
 En los próximos posteos, explicaremos cada uno más en detalle, los requisitos, formas de tramitarlos y algunos tips extra.
 
-[![Miniatura Youtube](/uploads/yt-min-1.png)**Ver video**](https://www.youtube.com/watch?v=9LXAhk7Rlq8)
+  
+[_![Miniatura Youtube](/uploads/yt-min-1.png)_**_Ver video _**](https://www.youtube.com/watch?v=9LXAhk7Rlq8)_explicando todos los conceptos en YouTube._👆
