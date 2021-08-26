@@ -3,9 +3,9 @@ categories = ["turismo"]
 date = 2021-08-26T10:45:00Z
 description = ""
 image = "/uploads/visita-a-toledo.jpg"
-tags = []
+tags = ["viajar"]
 title = "Turismo - Castilla-La Mancha: Toledo"
-type = "post"
+type = "featured"
 
 +++
 Es una antigua ciudad ubicada en una colina rodeada por el río Tajo, sobre las llanuras de Castilla-La Mancha en España central. Supo ser la Capital del Reino de Castilla, hasta que fue trasladada a Madrid en 1562. Actualmente es la ciudad capital de la Comunidad de Castilla y la Mancha. Toledo ofrece entre sus murallas una espectacular muestra de la historia y arte español. Todos los pueblos que llegaron a la Península Ibérica desde la prehistoria -romanos, visigodos, musulmanes, judíos y cristianos- han dejado huella de su cultura en esta ciudad, haciéndola merecedora de ser declarada **Patrimonio de la Humanidad** por la UNESCO en 1986. Conocida también como la "Ciudad de las tres culturas", haciendo alusión a las comunidades judías, musulmanas y cristiana que supieron convivir en esta ciudad durante siglos.
@@ -16,7 +16,7 @@ Es una antigua ciudad ubicada en una colina rodeada por el río Tajo, sobre las 
 
 ¿Qué ver y hacer en Toledo? Visitar Toledo es como viajar en el tiempo. Por eso, lo primero que recomendamos es realizar algunos de los free tour que ofrece la ciudad (hay muchas opciones y se pueden reservar por internet o encontrarlos en la plaza Zocodover entre las 11 y 11.30 de la mañana en general). Nosotros lo hicimos con @Pasearte Toledo (paraguas naranjas) y nos encantó. Realmente vale la pena hacer un tour para aprender de la gran historia de esta ciudad y también ordenar el resto de nuestra visita, teniendo una idea general de todo lo que nos ofrece.
 
-Los puntos principales para ver:
+**Los puntos principales para ver:**
 
 * Catedral Primada de España
 * Iglesia de Santo Tomé (aloja “El Entierro del Señor de Orgaz”, obra maestra de El Greco)
@@ -40,7 +40,7 @@ Los puntos principales para ver:
 
 ![](/uploads/toledo4.JPG "Vista desde Terraza el Miradero")
 
-Otros datos a tener en cuenta.
+**Otros datos a tener en cuenta:**
 
 Les dejo el link de la página oficial del Ayuntamiento de Toledo, que tiene mucha información turística, recomendaciones, horarios días y precios de visitas de monumentos y museos [https://turismo.toledo.es/oficinas-de-turismo/](https://turismo.toledo.es/oficinas-de-turismo/ "https://turismo.toledo.es/oficinas-de-turismo/")
 

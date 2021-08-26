@@ -5,7 +5,7 @@ description = "this is meta description"
 image = "/uploads/nie-cue-tie-dni.png"
 tags = ["DNI", "NIE", "CUE", "TIE"]
 title = "DNI, NIE, CUE, TIE. Diferencias, ¿Cuál debo tramitar? "
-type = "featured"
+type = "post"
 
 +++
 Si estás pensando en emigrar a España, y comenzaste a buscar información sobre los trámites, seguro más de una vez te encontraste alguna de esta siglas y probablemente te parece todo una confusión, al menos así me paso a mi al principio. Por eso voy a intentar aclarar estos términos para facilitarte entender, según tu situación personal, que deberías tramitar vos.
