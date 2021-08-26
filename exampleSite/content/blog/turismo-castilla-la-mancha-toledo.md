@@ -47,5 +47,3 @@ La oferta gastronómica de Toledo es bastante grande, suele haber muchas opcione
 Otro tip extra que les quiero compartir, es tratar de no ir a Toledo en pleno verano, ya que si bien el casco histórico es pequeño, al estar sobre una colina tiene muchas cuestas y bajadas, y recorrerlo con altas temperaturas es muy agotador.
 
 Para terminar, dejamos la última y creo que mejor recomendación, NO ir a Toledo solo a pasar el día, por un par de horas, cosa que suele hacerse mucho por la gran cercanía a Madrid. Toledo es tan mágica de día como de noche, y si bien es una ciudad pequeña está cargada de historia y cultura, ofrece mucho para ver y hacer. Por eso vale la pena dedicarle dos días o incluso un poco más y pasar al menos una noche en la ciudad. Perderse por sus callecitas, cruzar sus puentes, atravesar sus puertas, disfrutar de los bares o terrazas con grandes vistas, además de visitar sus monumentos y museos principales y comer mazapán harán de tu visita a Toledo, una experiencia completa e inolvidable.
-
-[toledo-video.MP4](/uploads/toledo-video.MP4 "toledo-video.MP4")
