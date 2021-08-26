@@ -2,7 +2,6 @@
 categories = ["turismo"]
 date = 2021-08-26T10:45:00Z
 description = ""
-draft = true
 image = "/uploads/visita-a-toledo.jpg"
 tags = []
 title = "Turismo - Castilla-La Mancha: Toledo"
