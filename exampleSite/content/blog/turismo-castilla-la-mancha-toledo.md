@@ -10,7 +10,7 @@ type = "post"
 +++
 Es una antigua ciudad ubicada en una colina rodeada por el río Tajo, sobre las llanuras de Castilla-La Mancha en España central. Supo ser la Capital del Reino de Castilla, hasta que fue trasladada a Madrid en 1562. Actualmente es la ciudad capital de la Comunidad de Castilla y la Mancha. Toledo ofrece entre sus murallas una espectacular muestra de la historia y arte español. Todos los pueblos que llegaron a la Península Ibérica desde la prehistoria -romanos, visigodos, musulmanes, judíos y cristianos- han dejado huella de su cultura en esta ciudad, haciéndola merecedora de ser declarada **Patrimonio de la Humanidad** por la UNESCO en 1986. Conocida también como la "Ciudad de las tres culturas", haciendo alusión a las comunidades judías, musulmanas y cristiana que supieron convivir en esta ciudad durante siglos.
 
-![](/uploads/toledo3.JPG)
+![](/uploads/toledo3.JPG "Catedral Primada de España")
 
 ¿Cómo llegar a Toledo? Está a unos 72 km (sudoeste) de Madrid. Hay varias opciones para ir, Autobús, tren, o auto particular. Aunque no recomendamos está última, ya que estacionar en el casco histórico es muy complicado. La forma más económica de ir es en autobús, salen cada media hora y el recorrido tarda 1 hora y media por 6 € cada tramo. Por último y la opción que sin dudas recomendamos es ir en tren, también hay gran variedad de horarios y el trayecto sale 11 € aprox, pero vale la pena ya que es muy cómodo y rápido, en media hora llegas desde Atocha (Madrid) a Toledo.
 
@@ -36,9 +36,9 @@ Los puntos principales para ver:
 * La Ermita y el Mirador del Valle (se puede ir en un colectivo local o a pie unos 40 minutos), desde donde se puede apreciar la ciudad y tener unas hermosas vistas. Además hay varios bares en el camino para disfrutar de unas copas.
 * Fly Toledo: la Tirolesa urbana más larga de Europa atraviesa el Río Tajo en el puente San Martín.
 
-![](/uploads/toledo1.JPG)
+![](/uploads/toledo1.JPG "Alcázar de Segovia")
 
-![](/uploads/toledo4.JPG)
+![](/uploads/toledo4.JPG "Vista desde Terraza el Miradero")
 
 Otros datos a tener en cuenta.
 
