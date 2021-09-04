@@ -5,10 +5,20 @@ description = ""
 draft = true
 image = "/uploads/valijas-que-llevar-que-dejar.png"
 tags = ["viajar", "checklist", "equipaje"]
-title = "VALIJAS/EQUIPAJE - ¿Qué llevar? ¿Qué dejar? "
+title = "VALIJAS/EQUIPAJE - ¿Qué llevar? ¿Qué dejar? 🧳"
 type = "post"
 
 +++
+Armar valijas puede resultar más o menos complicado y estresante. Yo debo decir que desde que me mudé a Bs As, y empecé a viajar habitualmente, fui aprendiendo bastante a simplificar y organizar de la mejor forma mis valijas. Pero claro, no es lo mismo armar valijas para un viaje, que para emigrar. Y ese será mi primer gran consejo. No se confíen, como hicimos nosotros. Armar la valija para migrar, es un proceso más largo y complejo, que el habitual para cualquier viaje, y no es recomendable, según mi experiencia, hacerlo los últimos dos días. Conviene hacerlo con tiempo.
+
+**Nosotros llevamos:**
+
+* 3 valijas grandes (máx 23 kg), una la pagamos aparte, ya que solo teníamos incluída una por cada pasaje. Si consideran necesario agregar valija, no se olviden de hacerlo antes desde la web o por teléfono, no lo hagan en el aeropuerto porque es más caro. Además, si no llegan con el peso, en general conviene pagar valija extra más que exceso de equipaje, ya que 1 o 2 kilos de más se cobra en el aeropuerto casi al mismo precio que una valija completa.
+* 2 carry on. (max 10 kg)-recordar no poner ninguno de los elementos prohibidos para subir a cabina del avión. Igualmente, en tiempos de covid, las aerolíneas están dejando despachar todo el equipaje (incluso el carry on) sin costo extra. Como yo lo sabía de antemano, no dejé nada que pudiera necesitar durante el vuelo en estas valijas.
+* 2 mochilas medianas como bolso de mano, camperas y el equipo de mate.
+
+**_En este posteo les dejamos algunos tips y recomendaciones, que a nosotros nos sirvieron a la hora de preparar nuestro equipaje. Obviamente es algo muy personal y depende de las necesidades de cada uno. Pero hay algunos consejos generales que creo pueden ayudarles._**
+
  1. Organizar y armar las valijas una semana antes por lo menos, no dejarlo para último momento. Porque lleva tiempo decidir qué llevar, que dejar y como acomodarlo para que entre lo más y mejor posible. En nuestro caso, las armamos y desarmamos varias veces, y hacerlo en los dos días previos, como hicimos nosotros, puede ser muy estresante.
  2. Respecto a la ropa y los zapatos, mi táctica fue solo llevar lo mejor que teníamos, la que nos gustaba, quedaba bien y usábamos regularmente. Lo demás lo regalamos y donamos todo. Nosotros llegamos en marzo de 2021, justo para cambio de estación, así que si bien trajimos para todas las temporadas, siguiendo ese concepto que les dije, no trajimos ropa de pleno invierno, ya que era la que más pesaba y es la estación que estaba terminando en España.
  3. Documentación: armé dos carpetas con toda la documentación para llevar, y también un sobre con los estudios y antecedentes médicos recientes.
@@ -22,3 +32,5 @@ type = "post"
 11. Balanza de equipaje: otro gran consejo es tener o pedir prestado una balanza de equipaje, para el momento del armado del mismo. Eso ayuda mucho a evitar malos ratos en el aeropuerto.
 12. Identificador y candado para las valijas: nosotros no envolvimos las valijas en film, aunque hay personas que lo recomiendan. Lo que sí hicimos fue ponerles candado e identificador a todas.
 13. Último tip que sumaría, las semanas antes ir armando una lista (checklist) de todo lo que se quieren llevar, e ir completándola a medida se acerca la fecha. La intención es que al armar las valijas, usen esa lista de guía, así no se olvidan de nada.
+
+Ahora sí, cuéntenos, Qué les pareció? Ustedes que otras cosas trajeron? Tienen más tips o consejos al momento de armar las valijas? Los leemos!!!
