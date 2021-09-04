@@ -2,7 +2,6 @@
 categories = ["tips"]
 date = 2021-09-04T09:40:00Z
 description = ""
-draft = true
 image = "/uploads/valijas-que-llevar-que-dejar.png"
 tags = ["viajar", "checklist", "equipaje"]
 title = "VALIJAS/EQUIPAJE - ¿Qué llevar? ¿Qué dejar? 🧳"
