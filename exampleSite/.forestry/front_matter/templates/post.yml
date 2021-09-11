@@ -24,5 +24,6 @@ fields:
   name: tags
   label: tags
 pages:
+- exampleSite/content/blog/que-es-el-cue-requisitos-y-guia-para-tramitarlo.md
 - exampleSite/content/blog/turismo-castilla-la-mancha-toledo.md
 - exampleSite/content/blog/valijas-equipaje-que-llevar-que-dejar.md
