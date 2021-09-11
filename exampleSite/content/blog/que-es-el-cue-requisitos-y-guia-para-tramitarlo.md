@@ -4,7 +4,7 @@ date = 2021-09-11T22:00:00Z
 description = ""
 draft = true
 image = ""
-tags = ["guia"]
+tags = []
 title = "¿Qué es el CUE? Requisitos y Guía para tramitarlo"
 type = ""
 
