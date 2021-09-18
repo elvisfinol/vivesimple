@@ -1,6 +1,6 @@
 +++
 categories = ["tramites"]
-date = 2021-09-11T22:00:00Z
+date = 2021-09-18T16:12:00Z
 description = ""
 draft = true
 image = "/uploads/que-es-el-cue.png"
