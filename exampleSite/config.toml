@@ -51,7 +51,7 @@ logo = "images/logo.png"
 
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = 3
 
 [params.newsletter]
 content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
@@ -83,7 +83,7 @@ URL = "plugins/search/search.js"
 
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "https://premiotravels.com/wp-content/uploads/2017/05/preloader.gif"
 
 [params.search]
 enable = true
