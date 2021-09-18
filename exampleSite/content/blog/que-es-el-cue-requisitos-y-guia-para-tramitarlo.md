@@ -51,15 +51,17 @@ _Si no se ejerce actividad laboral en España, y se tramita por el supuesto de *
 
 **¿Cuántos son esos fondos económicos a acreditar?**
 
-No hay ninguna legislación que determine el monto exacto a acreditar, y de hecho la legislación dice que se evaluará en cada caso en particular. En realidad, puede cambiar de acuerdo a la comuna donde se tramita, la oficina de extranjería y la persona que atiende, pero en general utilizan dos montos de referencia los del IPREM o los de las pensiones no contributivas.
+No hay ninguna legislación que determine el monto exacto a acreditar, y de hecho la legislación dice que se evaluará en cada caso en particular. En realidad, puede cambiar de acuerdo a la comuna donde se tramita, la oficina de extranjería y la persona que atiende, pero en general utilizan dos montos de referencia los del IPREM o los de las pensiones mínimas no contributivas.
 
-IPREM mensual: 564,90 €
+PREM mensual: 564,90 €
 
 IPREM anual: 6.778,80 € (para una persona)
 
-Pensión mensual: 402,80 €
+Pensión minima no contributiva mensual: 402,80 €
 
 Pensión anual: 5.639,20 € (para una persona)
+
+> Estos valores se actualizan cada año, estos son los que corresponden al 2021
 
 **OTRA DOCUMENTACIÓN:**
 
