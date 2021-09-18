@@ -86,7 +86,7 @@ enable = true
 preloader = "https://premiotravels.com/wp-content/uploads/2017/05/preloader.gif"
 
 [params.search]
-enable = true
+enable = false
 
 [[params.social]]
 icon = "ti-youtube"
