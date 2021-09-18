@@ -5,7 +5,7 @@ description = ""
 image = "/uploads/valijas-que-llevar-que-dejar.png"
 tags = ["viajar", "checklist", "equipaje"]
 title = "VALIJAS/EQUIPAJE - ¿Qué llevar? ¿Qué dejar? 🧳"
-type = "featured"
+type = "post"
 
 +++
 Armar valijas puede resultar más o menos complicado y estresante. Yo debo decir que desde que me mudé a Bs As, y empecé a viajar habitualmente, fui aprendiendo bastante a simplificar y organizar de la mejor forma mis valijas. Pero claro, no es lo mismo armar valijas para un viaje, que para emigrar. Y ese será mi primer gran consejo. No se confíen, como hicimos nosotros. Armar la valija para migrar, es un proceso más largo y complejo, que el habitual para cualquier viaje, y no es recomendable, según mi experiencia, hacerlo los últimos dos días. Conviene hacerlo con tiempo.
