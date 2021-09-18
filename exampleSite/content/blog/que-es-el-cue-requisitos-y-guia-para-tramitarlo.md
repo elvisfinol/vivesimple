@@ -21,3 +21,31 @@ Si eres **CIUDADANO COMUNITARIO** no español (ciudadano nacional de algún paí
 * **_Trabajador por cuenta ajena en España_** - con contrato de trabajo en relación de dependencia.
 * **_Trabajador por cuenta propia en España_** - régimen de autónomo.
 * **_Estudiante_** - ser estudiante y estar matriculado en un centro público o privado reconocido para cursar estudios o formación profesional, así como contar con un seguro de enfermedad y declaración responsable de que se posee recursos suficientes para sí y los miembros de su familia, para no convertirse en una carga para la asistencia social de España durante su periodo de residencia.
+
+**REQUISITOS**
+
+* Pasaporte o documento nacional de identidad válido y en vigor. En el supuesto de que esté caducado, deberá aportarse copia de este y de la solicitud de renovación.
+
+Dependiendo del **supuesto** elegido, según su caso particular:
+
+_Si es **trabajador por cuenta ajena** podrá aportar cualquiera de los siguientes documentos:_
+
+* Contrato de trabajo registrado en el Servicio Público de Empleo
+* Documento de alta en el régimen correspondiente de Seguridad Social
+
+_Si es **trabajador por cuenta propia** podrá aportar cualquiera de los siguientes documentos:_
+
+* Inscripción en el Censo de Actividades Económicas.
+* Justificación de su establecimiento mediante la Inscripción en el Registro Mercantil.
+* Documento de alta en el régimen correspondiente de Seguridad Social.
+
+_Si es **estudiante** se deberá aportar:_
+
+* Matrícula del centro de enseñanza público o privado.
+* Documentación que acredite disponer de seguro médico de enfermedad.
+* Declaración responsable de que posee recursos suficientes para sí y para los miembros de su familia, para su periodo de residencia en España.
+
+_Si no se ejerce actividad laboral en España, y se tramita por el supuesto de **justificación de fondos económicos**_
+
+* Seguro de enfermedad privado completo (SIN CARENCIAS y SIN COPAGOS). Llevar póliza o certificado de cobertura, condiciones generales y condiciones particulares. NO ACEPTAN seguros de viaje, ni seguros de las tarjetas de créditos.
+* Documentación que acredite disponer de recursos suficientes para él y sus familiares para el periodo de residencia en España. Si bien la legislación dice que se podrá acreditar por cualquier medio de prueba. En la práctica cotidiana, lo que requieren en extranjería normalmente, es una cuenta bancaria en España a titularidad del solicitante con los fondos económicos requeridos.
