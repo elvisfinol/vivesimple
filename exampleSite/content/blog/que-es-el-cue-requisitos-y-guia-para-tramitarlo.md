@@ -70,11 +70,15 @@ Pensión anual: 5.639,20 € (para una persona)
 **GUÍA PARA TRAMITARLO**
 
 1. **Reunir la documentación necesaria**, según el supuesto de tramitación (apertura de cuenta de banco, depósito del dinero y certificado del dinero en cuenta, seguro médico completo sin copagos/ contrato de trabajo, alta en la seguridad social y acreditación del derecho a asistencia sanitaria / alta en la seguridad social como autónomo y acreditación del derecho a asistencia sanitaria, etc)
-2. **Sacar CITA** - opción POLICÍA - CERTIFICADO DE REGISTRO UNIÓN EUROPEA. En Madrid en general se consiguen cita de una semana para la otra, o incluso la misma semana. Es normal a veces ingresar y que no haya, y luego en otros momentos encontrar, así que a no asustarse e insistir. Guardar y llevar el justificante o comprobante de la CITA, para mostrar en el ingreso a la oficina el día de la misma.
-3. **Completar** e imprimir el **formulario Ex-18**
-4. **Pagar la tasa 790 - 012** (12 EUROS aprox.) - Se rellena online (Opción a rellenar Certificado de Registro Residente Comunitario), luego se descarga en PDF, se imprime y se paga. Se puede pagar por caja/ventanilla del banco, supongo que de cualquier banco, pero yo fui al banco donde era cliente y tenía la cuenta por las dudas. Dato importante, en España cada banco tiene su propio horario, y tienen horario especial para operaciones de caja, suelen ser solo 2 o 3 horas nada más -ej: BBVA donde yo lo hice de 8.30 hs a 11 hs, así que tener esto en cuenta y averiguar bien antes de ir a pagar.
+2. **Sacar CITA** - opción [POLICÍA - CERTIFICADO DE REGISTRO UNIÓN EUROPEA](https://sede.administracionespublicas.gob.es/icpplustiem/acInfo;jsessionid=C99B229C6591285F07D5EA1DA405F443.appdmzgal3_19254_icpplustiem). En Madrid en general se consiguen cita de una semana para la otra, o incluso la misma semana. Es normal a veces ingresar y que no haya, y luego en otros momentos encontrar, así que a no asustarse e insistir. Guardar y llevar el justificante o comprobante de la CITA, para mostrar en el ingreso a la oficina el día de la misma.
+3. **Completar** e imprimir el [**formulario Ex-18**](https://extranjeros.inclusion.gob.es/ficheros/Modelos_solicitudes/mod_solicitudes2/18-Certificado_residencia_comunitaria.pdf)
+4. [**Pagar la tasa 790 - 012**](https://sede.policia.gob.es/Tasa790_012/ImpresoRellenar) (12 EUROS aprox.) - Se rellena online (Opción a rellenar Certificado de Registro Residente Comunitario), luego se descarga en PDF, se imprime y se paga. Se puede pagar por caja/ventanilla del banco, supongo que de cualquier banco, pero yo fui al banco donde era cliente y tenía la cuenta por las dudas. Dato importante, en España cada banco tiene su propio horario, y tienen horario especial para operaciones de caja, suelen ser solo 2 o 3 horas nada más -ej: BBVA donde yo lo hice de 8.30 hs a 11 hs, así que tener esto en cuenta y averiguar bien antes de ir a pagar.
 5. **Asistir** a la cita el día y hora indicada con toda la documentación en original y copia.
 
    Si todo está ok, ese mismo día te vas con tu CUE listo y ya eres Residente en España. Es decir, el trámite se realiza y si todo está correcto se entrega en el momento.
 
    (IMPORTANTE: el CUE NO puede plastificarse, pero sí puedes comprar un sobre plástico para documentos y así protegerlo)
+
+***
+
+Sumado a nuestra experiencia la info fue extraída de la [Pagina Oficial de Extranjería](https://sede.policia.gob.es/Tasa790_012/ImpresoRellenar). 
