@@ -51,28 +51,35 @@ _Si no se ejerce actividad laboral en España, y se tramita por el supuesto de *
 
 **¿Cuántos son esos fondos económicos a acreditar?**
 
-No hay ninguna legislación que determine el monto exacto a acreditar, y de hecho la legislación dice que se evaluará en cada caso en particular. En realidad, puede cambiar de acuerdo a la comuna donde se tramita, la oficina de extranjería y la persona que atiende, pero en general utilizan dos montos de referencia los del IPREM o los de las pensiones no contributivas.
+No hay ninguna legislación que determine el monto exacto a acreditar, y de hecho la legislación dice que se evaluará en cada caso en particular. En realidad, puede cambiar de acuerdo a la comuna donde se tramita, la oficina de extranjería y la persona que atiende, pero en general utilizan dos montos de referencia los del IPREM o los de las pensiones mínimas no contributivas.
 
-IPREM mensual: 564,90 €
+PREM mensual: 564,90 €
 
 IPREM anual: 6.778,80 € (para una persona)
 
-Pensión mensual: 402,80 €
+Pensión minima no contributiva mensual: 402,80 €
 
 Pensión anual: 5.639,20 € (para una persona)
+
+> Estos valores se actualizan cada año, estos son los que corresponden al 2021
 
 **OTRA DOCUMENTACIÓN:**
 
 * Empadronamiento- la legislación no establece que se necesite acreditar Empadronamiento para realizar este trámite. Nuevamente todo dependerá de la comuna, oficina y persona que atiende. En Madrid actualmente, según la experiencia en general, no lo están pidiendo. Yo igualmente lo llevaba, y el funcionario como lo vio entre los papeles, me lo pidió para dejarlo asentado en el expediente. Pero, conozco muchos casos que acá en Madrid lo tramitaron sin el Empadronamiento sin problema, y la verdad las Resoluciones que regulan el Régimen comunitario nada dicen de este requisito para tramitar el CUE.
+* Documentación que justifique o acredite la procedencia de los fondos económicos, en caso de tramitarlo por este supuesto. Otro punto que no se establece como requisito, pero lo agrego, porque fue mi experiencia. En general, son los Bancos los encargados, en caso de depósitos de montos superiores a 3.000 euros, solicitan documentación que acredite la procedencia de dichos fontos. En mi caso, el Banco nunca me pidió nada de eso. Pero, sí el funcionario que me atendió al tramitar mi CUE, me pidió si tenía documentación que acreditara como había obtenido dichos fondos (comprobante de cuenta bancaria de Argentina donde figure que antes tenía ese monto allá por ejemplo). Obviamente no tenía un comprobante de cuenta bancaria en Argentina donde acreditara que tenía depositado esa cantidad de euros antes de viajar, pero sí había llevado, por suerte, mis últimos recibos de sueldo de mi trabajo en Argentina y algunos comprobantes de compra de dólares de mi banco en Argentina, con eso fue suficiente y no me pidieron nada más. Reitero esto no es algo que se pida normalmente, ni figura en la legislación como un requisito para tramitar el CUE, solo lo menciono porque fue mi experiencia personal, y mi conclusión es, si uno tiene la documentación, mejor llevarla por las dudas, seguro no la piden, pero si por casualidad lo requieren, lo tenemos.
 
 **GUÍA PARA TRAMITARLO**
 
 1. **Reunir la documentación necesaria**, según el supuesto de tramitación (apertura de cuenta de banco, depósito del dinero y certificado del dinero en cuenta, seguro médico completo sin copagos/ contrato de trabajo, alta en la seguridad social y acreditación del derecho a asistencia sanitaria / alta en la seguridad social como autónomo y acreditación del derecho a asistencia sanitaria, etc)
-2. **Sacar CITA** - opción POLICÍA - CERTIFICADO DE REGISTRO UNIÓN EUROPEA. En Madrid en general se consiguen cita de una semana para la otra, o incluso la misma semana. Es normal a veces ingresar y que no haya, y luego en otros momentos encontrar, así que a no asustarse e insistir. Guardar y llevar el justificante o comprobante de la CITA, para mostrar en el ingreso a la oficina el día de la misma.
-3. **Completar** e imprimir el **formulario Ex-18**
-4. **Pagar la tasa 790 - 012** (12 EUROS aprox.) - Se rellena online (Opción a rellenar Certificado de Registro Residente Comunitario), luego se descarga en PDF, se imprime y se paga. Se puede pagar por caja/ventanilla del banco, supongo que de cualquier banco, pero yo fui al banco donde era cliente y tenía la cuenta por las dudas. Dato importante, en España cada banco tiene su propio horario, y tienen horario especial para operaciones de caja, suelen ser solo 2 o 3 horas nada más -ej: BBVA donde yo lo hice de 8.30 hs a 11 hs, así que tener esto en cuenta y averiguar bien antes de ir a pagar.
+2. **Sacar CITA** - opción [POLICÍA - CERTIFICADO DE REGISTRO UNIÓN EUROPEA](https://sede.administracionespublicas.gob.es/icpplustiem/acInfo;jsessionid=C99B229C6591285F07D5EA1DA405F443.appdmzgal3_19254_icpplustiem). En Madrid en general se consiguen cita de una semana para la otra, o incluso la misma semana. Es normal a veces ingresar y que no haya, y luego en otros momentos encontrar, así que a no asustarse e insistir. Guardar y llevar el justificante o comprobante de la CITA, para mostrar en el ingreso a la oficina el día de la misma.
+3. **Completar** e imprimir el [**formulario Ex-18**](https://extranjeros.inclusion.gob.es/ficheros/Modelos_solicitudes/mod_solicitudes2/18-Certificado_residencia_comunitaria.pdf)
+4. [**Pagar la tasa 790 - 012**](https://sede.policia.gob.es/Tasa790_012/ImpresoRellenar) (12 EUROS aprox.) - Se rellena online (Opción a rellenar Certificado de Registro Residente Comunitario), luego se descarga en PDF, se imprime y se paga. Se puede pagar por caja/ventanilla del banco, supongo que de cualquier banco, pero yo fui al banco donde era cliente y tenía la cuenta por las dudas. Dato importante, en España cada banco tiene su propio horario, y tienen horario especial para operaciones de caja, suelen ser solo 2 o 3 horas nada más -ej: BBVA donde yo lo hice de 8.30 hs a 11 hs, así que tener esto en cuenta y averiguar bien antes de ir a pagar.
 5. **Asistir** a la cita el día y hora indicada con toda la documentación en original y copia.
 
    Si todo está ok, ese mismo día te vas con tu CUE listo y ya eres Residente en España. Es decir, el trámite se realiza y si todo está correcto se entrega en el momento.
 
    (IMPORTANTE: el CUE NO puede plastificarse, pero sí puedes comprar un sobre plástico para documentos y así protegerlo)
+
+***
+
+Sumado a nuestra experiencia la info fue extraída de la [Pagina Oficial de Extranjería](https://sede.policia.gob.es/Tasa790_012/ImpresoRellenar). 
