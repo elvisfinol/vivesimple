@@ -82,7 +82,7 @@ URL = "plugins/search/mark.js"
 URL = "plugins/search/search.js"
 
 [params.preloader]
-enable = true
+enable = false
 preloader = "https://premiotravels.com/wp-content/uploads/2017/05/preloader.gif"
 
 [params.search]
