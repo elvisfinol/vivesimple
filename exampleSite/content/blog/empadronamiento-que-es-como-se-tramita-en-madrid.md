@@ -8,7 +8,7 @@ title = "EMPADRONAMIENTO ¿Qué es? ¿Cómo se tramita en Madrid?"
 type = "featured"
 
 +++
-Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio donde reside habitualmente. 
+Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio donde reside habitualmente.
 
 Quien viva en más de un municipio se inscribirá únicamente en el que resida durante más tiempo al año.
 
@@ -36,7 +36,7 @@ La documentación a aportar dependerá de cada caso particular, contemplando los
 2. Documentos en vigor que acreditan la identidad. Y documentos que acreditan la representación si corresponde según el caso.
 3. Documentos que acrediten el uso de la vivienda.
 
-**1.** [**Solicitud de empadronamiento (Hoja Padronal)**](https://sede.madrid.es/UnidadesDescentralizadas/UDCEstadistica/TramitesMunicipales/Ficheros/Hojapadronal.pdf "HojaPadronal") **debidamente cumplimentada y firmada a mano.** 
+**1.** [**Solicitud de empadronamiento (Hoja Padronal)**](https://sede.madrid.es/UnidadesDescentralizadas/UDCEstadistica/TramitesMunicipales/Ficheros/Hojapadronal.pdf "HojaPadronal") **debidamente cumplimentada y firmada a mano.**
 
 Descargue la Hoja Padronal que encontrará en Modelos de formularios y a continuación completarla (web o a mano con letra clara) y firmarla (a mano). Imprimirla para llevarlo el día de la cita.
 
@@ -61,7 +61,7 @@ En todos los supuestos, hay que presentar alguno de los siguientes documentos qu
 * Última factura de compañía suministradora de telefonía fija, servicio de acceso a internet fijo (fibra o ADSL), agua, electricidad o gas o contrato de suministro formalizado dentro del año anterior a la fecha de la solicitud, donde figuren reflejadas la dirección del suministro y el nombre y apellidos del titular del suministro.
 * Escritura o contrato de compraventa o contrato de arrendamiento en vigor (en contratos prorrogados, además llevar el último justificante del pago del alquiler con nombre del arrendador, arrendatario, periodo de pago y domicilio del arrendamiento).
 
-**Supuestos Posibles y Requisitos para cada caso** 
+**Supuestos Posibles y Requisitos para cada caso**
 
 **_Si no hay nadie empadronado en el domicilio_**
 
@@ -83,6 +83,6 @@ En todos los supuestos, hay que presentar alguno de los siguientes documentos qu
 * Autorización del director de dicho establecimiento
 * Sello de la Institución en la hoja padronal
 
-Como siempre la información fue extraída de las páginas oficiales, y recomiendo consultarlas antes de realizar su trámite, y verificar para su caso en particular. 
+Como siempre la información fue extraída de las [PÁGINAS OFICIALES](https://sede.madrid.es/portal/site/tramites/menuitem.62876cb64654a55e2dbd7003a8a409a0/?vgnextoid=3e3debb41f6e2410VgnVCM2000000c205a0aRCRD&vgnextchannel=775ba38813180210VgnVCM100000c90da8c0RCRD&vgnextfmt=default), y recomiendo consultarlas antes de realizar su trámite, y verificar para su caso en particular.
 
-Además para el PADRÓN MUNICIPAL y todo lo relativo a este, el Ayuntamiento creo un link de [PREGUNTAS FRECUENTES](https://sede.madrid.es/portal/site/tramites/menuitem.1f3361415fda829be152e15284f1a5a0/?vgnextoid=ebde77db57d64410VgnVCM2000000c205a0aRCRD&vgnextchannel=775ba38813180210VgnVCM100000c90da8c0RCRD&vgnextfmt=default), que es muy explicativo y también recomiendo consultarlo en caso de dudas. 
+Además para el PADRÓN MUNICIPAL y todo lo relativo a este, el Ayuntamiento creo un link de [PREGUNTAS FRECUENTES](https://sede.madrid.es/portal/site/tramites/menuitem.1f3361415fda829be152e15284f1a5a0/?vgnextoid=ebde77db57d64410VgnVCM2000000c205a0aRCRD&vgnextchannel=775ba38813180210VgnVCM100000c90da8c0RCRD&vgnextfmt=default), que es muy explicativo y también recomiendo consultarlo en caso de dudas.
