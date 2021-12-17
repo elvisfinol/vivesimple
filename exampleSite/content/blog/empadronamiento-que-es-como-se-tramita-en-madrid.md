@@ -77,5 +77,7 @@ Si hay otras personas empadronadas en el domicilio y residiendo en el mismo: ade
 
 Si el empadronamiento se va a realizar en un establecimiento colectivo (residencia, centro de acogida, etc.)
 
-* Autorización del director de dicho establecimiento
+* Autorización del director de [dicho ]()establecimiento
 * Sello de la Institución en la hoja padronal
+
+PREGUNTAS FRECUENTES [https://sede.madrid.es/portal/site/tramites/menuitem.1f3361415fda829be152e15284f1a5a0/?vgnextoid=ebde77db57d64410VgnVCM2000000c205a0aRCRD&vgnextchannel=775ba38813180210VgnVCM100000c90da8c0RCRD&vgnextfmt=default](https://sede.madrid.es/portal/site/tramites/menuitem.1f3361415fda829be152e15284f1a5a0/?vgnextoid=ebde77db57d64410VgnVCM2000000c205a0aRCRD&vgnextchannel=775ba38813180210VgnVCM100000c90da8c0RCRD&vgnextfmt=default "https://sede.madrid.es/portal/site/tramites/menuitem.1f3361415fda829be152e15284f1a5a0/?vgnextoid=ebde77db57d64410VgnVCM2000000c205a0aRCRD&vgnextchannel=775ba38813180210VgnVCM100000c90da8c0RCRD&vgnextfmt=default")
