@@ -1,12 +1,12 @@
 +++
 categories = []
-date = ""
+date = 2021-12-17T12:00:00Z
 description = ""
 draft = true
 image = ""
 tags = []
 title = "EMPADRONAMIENTO ¿Qué es? ¿Cómo se tramita en Madrid?"
-type = ""
+type = "featured"
 
 +++
 Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio donde reside habitualmente. Quien viva en más de un municipio se inscribirá únicamente en el que resida durante más tiempo al año.
