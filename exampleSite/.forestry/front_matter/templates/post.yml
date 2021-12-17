@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- exampleSite/content/blog/como-elegir-el-lugar-donde-migrar-aspectos-a-considerar.md
 - exampleSite/content/blog/empadronamiento-que-es-como-se-tramita-en-madrid.md
 - exampleSite/content/blog/que-es-el-cue-requisitos-y-guia-para-tramitarlo.md
 - exampleSite/content/blog/turismo-castilla-la-mancha-toledo.md
