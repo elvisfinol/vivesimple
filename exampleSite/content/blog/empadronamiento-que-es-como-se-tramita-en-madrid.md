@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2021-12-17T12:00:00Z
+date = 2021-12-17T11:30:00Z
 description = ""
 image = "/uploads/como-tramitar-empadronamiento.png"
 tags = []
