@@ -2,7 +2,6 @@
 categories = []
 date = 2021-12-17T12:00:00Z
 description = ""
-draft = true
 image = "/uploads/como-tramitar-empadronamiento.png"
 tags = []
 title = "EMPADRONAMIENTO ¿Qué es? ¿Cómo se tramita en Madrid?"
@@ -59,26 +58,31 @@ Todos los documentos deberán ser originales.
 
 En todos los supuestos, hay que presentar alguno de los siguientes documentos que acrediten el uso de la vivienda a su nombre:
 
-\-Última factura de compañía suministradora de telefonía fija, servicio de acceso a internet fijo (fibra o ADSL), agua, electricidad o gas o contrato de suministro formalizado dentro del año anterior a la fecha de la solicitud, donde figuren reflejadas la dirección del suministro y el nombre y apellidos del titular del suministro.
+* Última factura de compañía suministradora de telefonía fija, servicio de acceso a internet fijo (fibra o ADSL), agua, electricidad o gas o contrato de suministro formalizado dentro del año anterior a la fecha de la solicitud, donde figuren reflejadas la dirección del suministro y el nombre y apellidos del titular del suministro.
+* Escritura o contrato de compraventa o contrato de arrendamiento en vigor (en contratos prorrogados, además llevar el último justificante del pago del alquiler con nombre del arrendador, arrendatario, periodo de pago y domicilio del arrendamiento).
 
-\-Escritura o contrato de compraventa o contrato de arrendamiento en vigor (en contratos prorrogados, además llevar el último justificante del pago del alquiler con nombre del arrendador, arrendatario, periodo de pago y domicilio del arrendamiento).
+**Supuestos Posibles y Requisitos para cada caso** 
 
-Si no hay nadie empadronado en el domicilio
+**_Si no hay nadie empadronado en el domicilio_**
 
 * Y es titular o cotitular de los documentos indicados, es suficiente con la presentación de alguno de los documentos que se acaban de mencionar.
 * Si no tiene ninguno de los documentos aludidos que justifiquen el uso de la vivienda a su nombre, deberá aportar:
-  * Autorización de empadronamiento de la persona a cuyo nombre figuren estos documentos. Esta autorización se puede otorgar en la misma hoja padronal indicando que se autoriza a inscribirse en la vivienda no ocupada titularidad del/de la autorizante.
-  * Fotocopia del documento de identidad del autorizante.
 
-Si hay otras personas empadronadas en el domicilio y residiendo en el mismo: además de los documentos que acrediten el uso de la vivienda
+  \-Autorización de empadronamiento de la persona a cuyo nombre figuren estos documentos. Esta autorización se puede otorgar en la misma hoja padronal indicando que se autoriza a inscribirse en la vivienda no ocupada titularidad del/de la autorizante.
 
-* Debe autorizar el empadronamiento la persona que, residiendo en el domicilio, disponga de un documento que acredite la ocupación efectiva de la vivienda, aportando el documento que lo acredite y firmando el correspondiente apartado de autorización de la hoja padronal,
+  \-Fotocopia del documento de identidad del autorizante.
+
+**_Si hay otras personas empadronadas en el domicilio y residiendo en el mismo: además de los documentos que acrediten el uso de la vivienda_**
+
+* Debe autorizar el empadronamiento la persona que, residiendo en el domicilio, disponga de un documento que acredite la ocupación efectiva de la vivienda, aportando el documento que lo acredite y firmando el correspondiente apartado de autorización de la hoja padronal.
 * Si los residentes en el domicilio carecen de un documento que acredite la ocupación efectiva de la vivienda, uno de los mayores de edad debe firmar el apartado de declaración de residencia de la hoja, además deberá firmar el apartado de autorización de la hoja, la persona que disponga de un documento que acredite la ocupación efectiva de la vivienda,
 * Fotocopia del documento de identidad del autorizante y del declarante
 
-Si el empadronamiento se va a realizar en un establecimiento colectivo (residencia, centro de acogida, etc.)
+**_Si el empadronamiento se va a realizar en un establecimiento colectivo (residencia, centro de acogida, etc.)_**
 
-* Autorización del director de [dicho ]()establecimiento
+* Autorización del director de dicho establecimiento
 * Sello de la Institución en la hoja padronal
 
-PREGUNTAS FRECUENTES [https://sede.madrid.es/portal/site/tramites/menuitem.1f3361415fda829be152e15284f1a5a0/?vgnextoid=ebde77db57d64410VgnVCM2000000c205a0aRCRD&vgnextchannel=775ba38813180210VgnVCM100000c90da8c0RCRD&vgnextfmt=default](https://sede.madrid.es/portal/site/tramites/menuitem.1f3361415fda829be152e15284f1a5a0/?vgnextoid=ebde77db57d64410VgnVCM2000000c205a0aRCRD&vgnextchannel=775ba38813180210VgnVCM100000c90da8c0RCRD&vgnextfmt=default "https://sede.madrid.es/portal/site/tramites/menuitem.1f3361415fda829be152e15284f1a5a0/?vgnextoid=ebde77db57d64410VgnVCM2000000c205a0aRCRD&vgnextchannel=775ba38813180210VgnVCM100000c90da8c0RCRD&vgnextfmt=default")
+Como siempre la información fue extraída de las páginas oficiales, y recomiendo consultarlas antes de realizar su trámite, y verificar para su caso en particular. 
+
+Además para el PADRÓN MUNICIPAL y todo lo relativo a este, el Ayuntamiento creo un link de [PREGUNTAS FRECUENTES](https://sede.madrid.es/portal/site/tramites/menuitem.1f3361415fda829be152e15284f1a5a0/?vgnextoid=ebde77db57d64410VgnVCM2000000c205a0aRCRD&vgnextchannel=775ba38813180210VgnVCM100000c90da8c0RCRD&vgnextfmt=default), que es muy explicativo y también recomiendo consultarlo en caso de dudas. 
