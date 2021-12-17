@@ -2,6 +2,7 @@
 categories = []
 date = 2021-12-17T12:00:00Z
 description = ""
+draft = true
 image = "/uploads/como-tramitar-empadronamiento.png"
 tags = []
 title = "EMPADRONAMIENTO ¿Qué es? ¿Cómo se tramita en Madrid?"
