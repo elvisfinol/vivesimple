@@ -5,7 +5,7 @@ description = ""
 image = "/uploads/que-es-el-cue.png"
 tags = ["CUE"]
 title = "¿Qué es el CUE? Requisitos y Guía para tramitarlo"
-type = "featured"
+type = "post"
 
 +++
 Si eres **CIUDADANO COMUNITARIO** no español (ciudadano nacional de algún país de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo o de la Confederación Suiza) para residir y trabajar es España por más de 90 días, es obligatorio tramitar el CUE, es decir, **Certificado de Registro de la Unión Europea.**
@@ -82,4 +82,4 @@ Pensión anual: 5.639,20 € (para una persona)
 
 ***
 
-Sumado a nuestra experiencia la info fue extraída de la [Pagina Oficial de Extranjería](https://sede.policia.gob.es/Tasa790_012/ImpresoRellenar). 
+Sumado a nuestra experiencia la info fue extraída de la [Pagina Oficial de Extranjería](https://sede.policia.gob.es/Tasa790_012/ImpresoRellenar).
