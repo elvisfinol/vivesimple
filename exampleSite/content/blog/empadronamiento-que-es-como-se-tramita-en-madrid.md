@@ -9,7 +9,9 @@ title = "EMPADRONAMIENTO ¿Qué es? ¿Cómo se tramita en Madrid?"
 type = "featured"
 
 +++
-Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio donde reside habitualmente. Quien viva en más de un municipio se inscribirá únicamente en el que resida durante más tiempo al año.
+Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio donde reside habitualmente. 
+
+Quien viva en más de un municipio se inscribirá únicamente en el que resida durante más tiempo al año.
 
 Cuando se produzca un cambio de domicilio dentro del término municipal, el interesado debe solicitar la realización de dicho cambio en el Padrón.
 
@@ -23,7 +25,7 @@ En el caso de recién nacidos, el alta se realiza de oficio por el Ayuntamiento,
 
 **Cómo sacar Cita Previa** a través de los siguientes canales:
 
-En Línea: a través del enlace www.madrid.es/citaprevia. Seleccione en "Tipo de servicio": Padrón y en "Gestión": Padrón. [https://www-s.munimadrid.es/CitaNet/Concertar.do](https://www-s.munimadrid.es/CitaNet/Concertar.do "https://www-s.munimadrid.es/CitaNet/Concertar.do")
+En Línea: a través del enlace que dejo aquí  [https://www-s.munimadrid.es/CitaNet/Concertar.do](https://www-s.munimadrid.es/CitaNet/Concertar.do "https://www-s.munimadrid.es/CitaNet/Concertar.do"). Seleccione en "Tipo de servicio": Padrón y en "Gestión": Padrón.
 
 Por teléfono: A través del teléfono gratuito 010, si llama desde la ciudad de Madrid, o del 915 298 210, si llama desde la ciudad de Madrid o desde fuera
 
@@ -32,21 +34,20 @@ Por teléfono: A través del teléfono gratuito 010, si llama desde la ciudad de
 La documentación a aportar dependerá de cada caso particular, contemplando los siguientes apartados:
 
 1. Solicitud de empadronamiento.
-2. Documentos en vigor que acreditan la identidad.
-3. Documentos que acreditan la representación.
-4. Documentos que acrediten el uso de la vivienda.
+2. Documentos en vigor que acreditan la identidad. Y documentos que acreditan la representación si corresponde según el caso.
+3. Documentos que acrediten el uso de la vivienda.
 
-1\. [Solicitud de empadronamiento (Hoja Padronal) ](https://sede.madrid.es/UnidadesDescentralizadas/UDCEstadistica/TramitesMunicipales/Ficheros/Hojapadronal.pdf)debidamente cumplimentada y firmada a mano. Descargue la Hoja Padronal que encontrará en Modelos de formularios y a continuación completarla (web o a mano con letra clara) y firmarla (a mano). Imprimirla para llevarlo el día de la cita.
+**1.** [**Solicitud de empadronamiento (Hoja Padronal)**](https://sede.madrid.es/UnidadesDescentralizadas/UDCEstadistica/TramitesMunicipales/Ficheros/Hojapadronal.pdf "HojaPadronal") **debidamente cumplimentada y firmada a mano.** 
 
-[https://sede.madrid.es/UnidadesDescentralizadas/UDCEstadistica/TramitesMunicipales/Ficheros/Hojapadronal.pdf](https://sede.madrid.es/UnidadesDescentralizadas/UDCEstadistica/TramitesMunicipales/Ficheros/Hojapadronal.pdf "https://sede.madrid.es/UnidadesDescentralizadas/UDCEstadistica/TramitesMunicipales/Ficheros/Hojapadronal.pdf")
+Descargue la Hoja Padronal que encontrará en Modelos de formularios y a continuación completarla (web o a mano con letra clara) y firmarla (a mano). Imprimirla para llevarlo el día de la cita.
 
-2\. Documentos en vigor que acreditan la identidad:
+**2. Documentos en vigor que acreditan la identidad:**
 
-**Nacionales Españoles:**
+**_Nacionales Españoles:_**
 
 Mayores de edad y menores desde los 14 años: DNI o pasaporte en vigor (original del que acude presencialmente y fotocopias de los demás que se empadronan). Con 14 años es obligatorio obtener documento nacional de identidad.
 
-**Extranjeros**:
+**_Extranjeros_**_:_
 
 _Nacionales de Estados miembros de la Unión Europea, Islandia, Liechtenstein, Noruega y Suiza:_ pasaporte o a su documento nacional de identidad originales en vigor. Si ya tiene CUE también llevarlo, pero recordar que éste por sí solo no acredita identidad.
 
@@ -54,7 +55,7 @@ _De otras nacionalidades:_ pasaporte o permiso de residencia -TIE- (temporal, pe
 
 Todos los documentos deberán ser originales.
 
-4\. Documentos que acreditan el uso de la vivienda.
+**3. Documentos que acreditan el uso de la vivienda.**
 
 En todos los supuestos, hay que presentar alguno de los siguientes documentos que acrediten el uso de la vivienda a su nombre:
 
