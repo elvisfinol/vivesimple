@@ -2,7 +2,6 @@
 categories = []
 date = 2021-12-16T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/mejor-lugar-para-migrar.png"
 tags = []
 title = "¿Cómo elegir el lugar donde migrar? Aspectos a considerar."
