@@ -9,13 +9,27 @@ menu:
 draft: true
 
 ---
-[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/ia3wSmEcys8/maxresdefault.jpg?time=1631983200000&sqp=COCsmIoG&rs=AOn4CLCLaudktHCzMdMbKJeSvDL3NkMzVQ)](https://www.youtube.com/watch?v=ia3wSmEcys8 "Video Title")
+**¡Hola, gente!** Bienvenidos a nuestro blog oficial, en el que compartimos nuestras experiencias con vos.
 
-**_¡Hola, gente!_** _Bienvenidos a nuestro blog oficial, en el que compartimos nuestras experiencias con vos._
+Nos encanta viajar, hacer turismo y conocer otras culturas. Hablamos sobre migración y viajes, trámites y derecho en el día a día. Esperamos que disfruten nuestro espacio y sea de mucha ayuda. 🤗
 
-_Nos encanta viajar, hacer turismo y explorar nuevos rincones. Esperamos que disfruten nuestro espacio y sea de mucha utilidad. 🤗_
+Mica & Elvis
 
-_Mica & Elvis_
+Como migrante y abogada, se de las mil dudas e incertidumbres que surgen cuando decidimos dejar todo y comenzar una nueva vida en otro país. Por eso decidí crear estos servicios, para acompañarte y ayudarte en ese proceso. 
+
+Mis Servicios:
+
+\-ASESORÍA GENERAL y PLAN MIGRATORIO a ESPAÑA- Asesoría por videollamada de 1 hora/ 1.15 horas según la necesidad. Incluye la asesoría, el informe escrito final con todo lo conversado, links de interés. Consultas y acompañamiento por whatsapp. 
+
+\-ASESORÍA PARTICULAR- Asesoría por videollamada de 30 minutos sobre un trámite en específico y guía en la preparación de la documentación a presentar y los pasos para realizar el trámite.
+
+\-CONSULTAS POR ESCRITO - Hasta 3 consultas concretas por escrito.  
+
+\-BÚSQUEDA PERSONALIZADA (PERSONAL SHOPPER) de tu PRIMER VIVIENDA en ESPAÑA - (próximamente)
+
+Espero su contacto y quedo a disposición. 
+
+Mica 
 
 ***
 
