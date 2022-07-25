@@ -1,12 +1,12 @@
 +++
-categories = []
+categories = ["tramites"]
 date = ""
 description = ""
 draft = true
 image = ""
 tags = []
 title = "RESIDENCIA  FAMILIAR COMUNITARIO - ¿QUIÉN PUEDE REALIZARLA Y CÓMO SE TRAMITA?"
-type = ""
+type = "post"
 
 +++
 **¿QUIÉNES PUEDEN TRAMITARLA?**
