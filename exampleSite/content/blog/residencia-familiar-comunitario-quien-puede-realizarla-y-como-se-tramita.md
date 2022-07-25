@@ -1,10 +1,10 @@
 +++
 categories = ["tramites"]
-date = ""
+date = 2022-07-25T18:00:00Z
 description = ""
 image = "/uploads/residencia-familiar-comunitario.png"
 tags = []
-title = "RESIDENCIA  FAMILIAR COMUNITARIO - ¿QUIÉN PUEDE REALIZARLA Y CÓMO SE TRAMITA?"
+title = "RESIDENCIA  FAMILIAR COMUNITARIO - ¿Quién puede realizarla y cómo se tramita?"
 type = "post"
 
 +++
@@ -12,7 +12,7 @@ type = "post"
 
 **1- HIJO DIRECTO** del ciudadano de la Unión o del Espacio Económico Europeo o de su cónyuge o pareja registrada, **siempre que sea menor de veintiún años, o mayor de dicha edad que viva a su cargo, o sea incapaz.**
 
-\**2- CÓNYUGE -**casado legalmente / **PAREJA REGISTRADA** en España / **PAREJA NO REGISTRADA** en España (con hijos en común o pruebas suficientes de convivencia por más de 1 año).
+**2- CÓNYUGE** casado legalmente / **PAREJA REGISTRADA** en España / **PAREJA NO REGISTRADA** en España (con hijos en común o pruebas suficientes de convivencia por más de 1 año).
 
 **3- ASCENDIENTE DIRECTO del CIUDADANO COMUNITARIO** o de su cónyuge o pareja registrada que vivan a su cargo y se demuestre la dependencia por más de 1 año.
 
