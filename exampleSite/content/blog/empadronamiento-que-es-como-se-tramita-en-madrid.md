@@ -5,7 +5,7 @@ description = ""
 image = "/uploads/como-tramitar-empadronamiento.png"
 tags = []
 title = "EMPADRONAMIENTO ¿Qué es? ¿Cómo se tramita en Madrid?"
-type = "featured"
+type = "post"
 
 +++
 Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio donde reside habitualmente.
