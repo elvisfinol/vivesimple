@@ -5,7 +5,7 @@ description = ""
 image = "/uploads/residencia-familiar-comunitario.png"
 tags = []
 title = "RESIDENCIA  FAMILIAR COMUNITARIO - ¿Quién puede realizarla y cómo se tramita?"
-type = "post"
+type = "featured"
 
 +++
 **¿QUIÉNES PUEDEN TRAMITARLA?**
