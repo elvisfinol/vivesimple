@@ -2,8 +2,7 @@
 categories = ["tramites"]
 date = ""
 description = ""
-draft = true
-image = ""
+image = "/uploads/residencia-familiar-comunitario.png"
 tags = []
 title = "RESIDENCIA  FAMILIAR COMUNITARIO - ¿QUIÉN PUEDE REALIZARLA Y CÓMO SE TRAMITA?"
 type = "post"
